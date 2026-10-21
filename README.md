@@ -40,3 +40,9 @@ git clone https://github.com/lh001-lab/creator-account-distill.git ~/.codex/skil
 - 使用者需要遵守平台规则与原作品的使用范围。
 
 本地验证覆盖了 Apple Silicon 转写、断点续跑、含百分号路径、抽帧失败隔离、OCR、清单核对和报告搜索。F2 适配器通过离线字段与认证清理测试；平台接口可能变化，运行时应先小批验证。
+
+## 许可证
+
+本仓库的工具代码与流程文档采用 [MIT License](LICENSE)，允许使用、修改与分发，需保留许可证及版权声明。
+
+F2、Whisper 实现、FFmpeg 等外部依赖遵循各自许可证；本许可证不授予第三方视频、图片或账号内容的使用权。
