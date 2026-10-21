@@ -1,0 +1,4 @@
+interface:
+  display_name: "博主账号蒸馏"
+  short_description: "逐条采集转写博主作品并核对画面，整理可追溯的方法库与应用方案"
+  default_prompt: "使用 $creator-account-distill 蒸馏这个博主账号，逐条整理公开视频，核对关键画面，并输出方法库和原作品索引。"
